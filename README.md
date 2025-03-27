@@ -29,9 +29,3 @@ This project is a **Sentiment Analysis** of customer reviews performed as part o
 - **Key Negative Keywords**: Extracted frequent negative words such as **"itchy," "poor quality," "slow delivery,"** etc., helping businesses understand customer pain points.
 - **Class Analysis**: Discovered which departments/products had the highest percentage of negative reviews, offering valuable insights for targeted improvements.
 
-## Installation & Setup
-To set up this project on your local machine, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
